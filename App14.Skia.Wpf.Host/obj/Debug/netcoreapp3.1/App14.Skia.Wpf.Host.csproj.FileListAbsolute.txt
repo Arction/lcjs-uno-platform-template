@@ -1,0 +1,124 @@
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.exe
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Assets\Fonts\uno-fluentui-assets.ttf
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.dll.config
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.deps.json
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.runtimeconfig.json
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.runtimeconfig.dev.json
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.Foundation.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.UI.FluentTheme.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.UI.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.UI.Toolkit.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.Xaml.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.UI.RemoteControl.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\CommonServiceLocator.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Filter.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\SkiaSharp.Views.Desktop.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.Core.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.Diagnostics.Eventing.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.UI.Runtime.Skia.Wpf.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.Wasm.WebSockets.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.Foundation.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.UI.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.UI.FluentTheme.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.UI.Toolkit.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.Xaml.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.UI.RemoteControl.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\App14.Skia.Wpf.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\App14.Skia.Wpf.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.csprojAssemblyReference.cache
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App.g.cs
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host_Content.g.cs
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host_MarkupCompile.cache
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host_MarkupCompile.lref
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.g.resources
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.Properties.Resources.resources
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.csproj.GenerateResource.cache
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.AssemblyInfoInputs.cache
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.AssemblyInfo.cs
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.csproj.CoreCompileInputs.cache
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.csproj.CopyComplete
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.genruntimeconfig.cache
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Assets\sample.html
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Assets\script.js
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.exe
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Assets\Fonts\uno-fluentui-assets.ttf
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Assets\sample.html
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Assets\script.js
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.dll.config
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.deps.json
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.runtimeconfig.json
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.runtimeconfig.dev.json
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.pdb
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.Foundation.pdb
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.pdb
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.UI.FluentTheme.pdb
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.UI.pdb
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.UI.Toolkit.pdb
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.Xaml.pdb
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.UI.RemoteControl.pdb
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\CommonServiceLocator.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Filter.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\SkiaSharp.Views.Desktop.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.Core.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.Diagnostics.Eventing.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.UI.Runtime.Skia.Wpf.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.Wasm.WebSockets.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.Foundation.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.UI.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.UI.FluentTheme.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.UI.Toolkit.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.Xaml.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\Uno.UI.RemoteControl.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\App14.Skia.Wpf.dll
+C:\abc\App14\App14.Skia.Wpf.Host\bin\Debug\netcoreapp3.1\App14.Skia.Wpf.pdb
+C:\abc\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.csprojAssemblyReference.cache
+C:\abc\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\abc\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App.g.cs
+C:\abc\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host_Content.g.cs
+C:\abc\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host_MarkupCompile.cache
+C:\abc\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host_MarkupCompile.lref
+C:\abc\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\abc\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.g.resources
+C:\abc\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.Properties.Resources.resources
+C:\abc\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.csproj.GenerateResource.cache
+C:\abc\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.AssemblyInfoInputs.cache
+C:\abc\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.AssemblyInfo.cs
+C:\abc\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.csproj.CoreCompileInputs.cache
+C:\abc\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.csproj.CopyComplete
+C:\abc\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.dll
+C:\abc\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.pdb
+C:\abc\App14\App14.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App14.Skia.Wpf.Host.genruntimeconfig.cache

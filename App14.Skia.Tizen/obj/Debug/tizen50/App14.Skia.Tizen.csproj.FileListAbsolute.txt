@@ -1,0 +1,36 @@
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Tizen\bin\Debug\tizen50\Assets\StoreLogo.png
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Tizen\bin\Debug\tizen50\App14.Skia.Tizen.deps.json
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Tizen\bin\Debug\tizen50\App14.Skia.Tizen.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Tizen\bin\Debug\tizen50\App14.Skia.Tizen.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Tizen\bin\Debug\tizen50\Uno.Foundation.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Tizen\bin\Debug\tizen50\Uno.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Tizen\bin\Debug\tizen50\Uno.UI.FluentTheme.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Tizen\bin\Debug\tizen50\Uno.UI.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Tizen\bin\Debug\tizen50\Uno.UI.Toolkit.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Tizen\bin\Debug\tizen50\Uno.Xaml.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Tizen\bin\Debug\tizen50\Uno.UI.RemoteControl.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Tizen\obj\Debug\tizen50\App14.Skia.Tizen.csprojAssemblyReference.cache
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Tizen\obj\Debug\tizen50\App14.Skia.Tizen.AssemblyInfoInputs.cache
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Tizen\obj\Debug\tizen50\App14.Skia.Tizen.AssemblyInfo.cs
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Tizen\obj\Debug\tizen50\App14.Skia.Tizen.csproj.CoreCompileInputs.cache
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Tizen\obj\Debug\tizen50\App14.Skia.Tizen.csproj.CopyComplete
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Tizen\obj\Debug\tizen50\App14.Skia.Tizen.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Tizen\obj\Debug\tizen50\App14.Skia.Tizen.pdb
+C:\abc\App14\App14.Skia.Tizen\bin\Debug\tizen50\Assets\StoreLogo.png
+C:\abc\App14\App14.Skia.Tizen\bin\Debug\tizen50\Assets\sample.html
+C:\abc\App14\App14.Skia.Tizen\bin\Debug\tizen50\App14.Skia.Tizen.deps.json
+C:\abc\App14\App14.Skia.Tizen\bin\Debug\tizen50\App14.Skia.Tizen.dll
+C:\abc\App14\App14.Skia.Tizen\bin\Debug\tizen50\App14.Skia.Tizen.pdb
+C:\abc\App14\App14.Skia.Tizen\bin\Debug\tizen50\Uno.Foundation.pdb
+C:\abc\App14\App14.Skia.Tizen\bin\Debug\tizen50\Uno.pdb
+C:\abc\App14\App14.Skia.Tizen\bin\Debug\tizen50\Uno.UI.FluentTheme.pdb
+C:\abc\App14\App14.Skia.Tizen\bin\Debug\tizen50\Uno.UI.pdb
+C:\abc\App14\App14.Skia.Tizen\bin\Debug\tizen50\Uno.UI.Toolkit.pdb
+C:\abc\App14\App14.Skia.Tizen\bin\Debug\tizen50\Uno.Xaml.pdb
+C:\abc\App14\App14.Skia.Tizen\bin\Debug\tizen50\Uno.UI.RemoteControl.pdb
+C:\abc\App14\App14.Skia.Tizen\obj\Debug\tizen50\App14.Skia.Tizen.AssemblyInfoInputs.cache
+C:\abc\App14\App14.Skia.Tizen\obj\Debug\tizen50\App14.Skia.Tizen.AssemblyInfo.cs
+C:\abc\App14\App14.Skia.Tizen\obj\Debug\tizen50\App14.Skia.Tizen.csproj.CoreCompileInputs.cache
+C:\abc\App14\App14.Skia.Tizen\obj\Debug\tizen50\App14.Skia.Tizen.csproj.CopyComplete
+C:\abc\App14\App14.Skia.Tizen\obj\Debug\tizen50\App14.Skia.Tizen.dll
+C:\abc\App14\App14.Skia.Tizen\obj\Debug\tizen50\App14.Skia.Tizen.pdb

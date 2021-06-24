@@ -1,0 +1,492 @@
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\wwwroot\web.config
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Assets\SplashScreen.png
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\App14.Wasm.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\App14.Wasm.pdb
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\mscorlib.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\netstandard.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.AppContext.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Collections.Concurrent.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Collections.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Collections.NonGeneric.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Collections.Specialized.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ComponentModel.Composition.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ComponentModel.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Console.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Core.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Data.Common.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Data.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.Debug.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.Process.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.Tools.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Drawing.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Drawing.Primitives.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Dynamic.Runtime.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Globalization.Calendars.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Globalization.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Globalization.Extensions.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.Compression.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.Pipes.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Linq.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Linq.Expressions.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Linq.Parallel.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Linq.Queryable.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.Http.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.NameResolution.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.NetworkInformation.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.Ping.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.Primitives.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.Requests.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.Security.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.Sockets.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.WebSockets.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Numerics.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ObjectModel.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Reflection.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Reflection.Extensions.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Reflection.Primitives.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Resources.Reader.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Resources.ResourceManager.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Resources.Writer.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Extensions.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Handles.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.InteropServices.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Numerics.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.Claims.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.Principal.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.SecureString.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ServiceModel.Web.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Text.Encoding.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Text.RegularExpressions.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Threading.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Threading.Overlapped.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Threading.Tasks.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Threading.Thread.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Threading.ThreadPool.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Threading.Timer.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Transactions.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ValueTuple.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Web.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Windows.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.Linq.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.Serialization.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.XDocument.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.XmlDocument.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.XPath.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Foundation.pdb
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.pdb
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.FluentTheme.pdb
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.pdb
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.Toolkit.pdb
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Xaml.pdb
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.RemoteControl.pdb
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\CommonServiceLocator.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Filter.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Buffers.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Collections.Immutable.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\System.ComponentModel.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Linq.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Memory.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Numerics.Vectors.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Reflection.Emit.ILGeneration.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Reflection.Emit.Lightweight.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Threading.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Core.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Diagnostics.Eventing.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Foundation.Runtime.WebAssembly.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.Runtime.WebAssembly.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Wasm.WebSockets.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Foundation.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.FluentTheme.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.Toolkit.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Xaml.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.RemoteControl.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\obj\Debug\netstandard2.0\App14.Wasm.csprojAssemblyReference.cache
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\obj\Debug\netstandard2.0\App14.Wasm.AssemblyInfoInputs.cache
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\obj\Debug\netstandard2.0\App14.Wasm.AssemblyInfo.cs
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\obj\Debug\netstandard2.0\App14.Wasm.csproj.CoreCompileInputs.cache
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\obj\Debug\netstandard2.0\App14.Wasm.csproj.CopyComplete
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\obj\Debug\netstandard2.0\App14.Wasm.dll
+C:\Users\ChetanaKamble\source\repos\App14\App14.Wasm\obj\Debug\netstandard2.0\App14.Wasm.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\wwwroot\web.config
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Assets\SplashScreen.png
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\App14.Wasm.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\App14.Wasm.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\Microsoft.Win32.Primitives.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\mscorlib.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\netstandard.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.AppContext.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Collections.Concurrent.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Collections.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Collections.NonGeneric.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Collections.Specialized.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ComponentModel.Composition.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ComponentModel.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ComponentModel.Primitives.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ComponentModel.TypeConverter.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Console.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Core.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Data.Common.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Data.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.Contracts.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.Debug.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.Process.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.StackTrace.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.Tools.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.TraceSource.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.Tracing.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Drawing.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Drawing.Primitives.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Dynamic.Runtime.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Globalization.Calendars.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Globalization.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Globalization.Extensions.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.Compression.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.Compression.FileSystem.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.Compression.ZipFile.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.Primitives.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.Watcher.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.IsolatedStorage.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.MemoryMappedFiles.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.Pipes.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Linq.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Linq.Expressions.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Linq.Parallel.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Linq.Queryable.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.Http.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.NameResolution.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.NetworkInformation.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.Ping.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.Primitives.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.Requests.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.Security.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.Sockets.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.WebHeaderCollection.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.WebSockets.Client.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.WebSockets.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Numerics.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ObjectModel.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Reflection.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Reflection.Extensions.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Reflection.Primitives.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Resources.Reader.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Resources.ResourceManager.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Resources.Writer.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Extensions.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Handles.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.InteropServices.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Numerics.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Json.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Xml.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.Claims.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Csp.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Encoding.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Primitives.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.Principal.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.SecureString.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ServiceModel.Web.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Text.Encoding.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Text.Encoding.Extensions.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Text.RegularExpressions.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Threading.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Threading.Overlapped.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Threading.Tasks.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Threading.Tasks.Parallel.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Threading.Thread.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Threading.ThreadPool.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Threading.Timer.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Transactions.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ValueTuple.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Web.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Windows.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.Linq.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.ReaderWriter.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.Serialization.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.XDocument.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.XmlDocument.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.XmlSerializer.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.XPath.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.XPath.XDocument.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Foundation.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.FluentTheme.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.Toolkit.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Xaml.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.RemoteControl.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\CommonServiceLocator.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Console.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Filter.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Extensions.Primitives.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Buffers.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Collections.Immutable.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\System.ComponentModel.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Linq.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Memory.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Numerics.Vectors.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Reflection.Emit.ILGeneration.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Reflection.Emit.Lightweight.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Threading.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Core.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Diagnostics.Eventing.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Foundation.Runtime.WebAssembly.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.Runtime.WebAssembly.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Wasm.WebSockets.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Foundation.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.FluentTheme.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.Toolkit.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Xaml.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.RemoteControl.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\obj\Debug\netstandard2.0\App14.Wasm.csprojAssemblyReference.cache
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\obj\Debug\netstandard2.0\App14.Wasm.AssemblyInfoInputs.cache
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\obj\Debug\netstandard2.0\App14.Wasm.AssemblyInfo.cs
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\obj\Debug\netstandard2.0\App14.Wasm.csproj.CoreCompileInputs.cache
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\obj\Debug\netstandard2.0\App14.Wasm.csproj.CopyComplete
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\obj\Debug\netstandard2.0\App14.Wasm.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\obj\Debug\netstandard2.0\App14.Wasm.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Toolkit.Wpf.UI.Controls.WebView.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\wwwroot\web.config
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Assets\SplashScreen.png
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Assets\sample.html
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\App14.Wasm.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\App14.Wasm.pdb
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\Microsoft.Win32.Primitives.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\mscorlib.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\netstandard.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.AppContext.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Collections.Concurrent.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Collections.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Collections.NonGeneric.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Collections.Specialized.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ComponentModel.Composition.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ComponentModel.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ComponentModel.Primitives.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ComponentModel.TypeConverter.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Console.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Core.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Data.Common.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Data.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.Contracts.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.Debug.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.Process.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.StackTrace.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.Tools.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.TraceSource.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Diagnostics.Tracing.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Drawing.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Drawing.Primitives.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Dynamic.Runtime.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Globalization.Calendars.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Globalization.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Globalization.Extensions.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.Compression.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.Compression.FileSystem.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.Compression.ZipFile.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.Primitives.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.Watcher.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.IsolatedStorage.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.MemoryMappedFiles.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.Pipes.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Linq.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Linq.Expressions.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Linq.Parallel.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Linq.Queryable.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.Http.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.NameResolution.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.NetworkInformation.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.Ping.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.Primitives.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.Requests.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.Security.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.Sockets.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.WebHeaderCollection.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.WebSockets.Client.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Net.WebSockets.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Numerics.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ObjectModel.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Reflection.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Reflection.Extensions.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Reflection.Primitives.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Resources.Reader.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Resources.ResourceManager.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Resources.Writer.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Extensions.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Handles.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.InteropServices.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Numerics.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Json.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Xml.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.Claims.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Csp.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Encoding.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Primitives.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.Principal.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Security.SecureString.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ServiceModel.Web.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Text.Encoding.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Text.Encoding.Extensions.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Text.RegularExpressions.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Threading.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Threading.Overlapped.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Threading.Tasks.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Threading.Tasks.Parallel.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Threading.Thread.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Threading.ThreadPool.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Threading.Timer.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Transactions.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.ValueTuple.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Web.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Windows.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.Linq.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.ReaderWriter.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.Serialization.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.XDocument.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.XmlDocument.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.XmlSerializer.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.XPath.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\refs\System.Xml.XPath.XDocument.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Foundation.pdb
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.pdb
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.FluentTheme.pdb
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.pdb
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.Toolkit.pdb
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Xaml.pdb
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.RemoteControl.pdb
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\CommonServiceLocator.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Console.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Filter.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Extensions.Primitives.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Microsoft.Toolkit.Wpf.UI.Controls.WebView.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Buffers.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Collections.Immutable.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\System.ComponentModel.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Linq.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Memory.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Numerics.Vectors.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Reflection.Emit.ILGeneration.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Reflection.Emit.Lightweight.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\System.Threading.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Core.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Diagnostics.Eventing.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Foundation.Runtime.WebAssembly.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.Runtime.WebAssembly.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Wasm.WebSockets.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Foundation.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.FluentTheme.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.Toolkit.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.Xaml.dll
+C:\abc\App14\App14.Wasm\bin\Debug\netstandard2.0\Uno.UI.RemoteControl.dll
+C:\abc\App14\App14.Wasm\obj\Debug\netstandard2.0\App14.Wasm.AssemblyInfoInputs.cache
+C:\abc\App14\App14.Wasm\obj\Debug\netstandard2.0\App14.Wasm.AssemblyInfo.cs
+C:\abc\App14\App14.Wasm\obj\Debug\netstandard2.0\App14.Wasm.csproj.CoreCompileInputs.cache
+C:\abc\App14\App14.Wasm\obj\Debug\netstandard2.0\App14.Wasm.csproj.CopyComplete
+C:\abc\App14\App14.Wasm\obj\Debug\netstandard2.0\App14.Wasm.dll
+C:\abc\App14\App14.Wasm\obj\Debug\netstandard2.0\App14.Wasm.pdb
+C:\abc\App14\App14.Wasm\obj\Debug\netstandard2.0\App14.Wasm.csprojAssemblyReference.cache

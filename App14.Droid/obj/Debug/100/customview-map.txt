@@ -1,0 +1,11 @@
+attr;C:\Users\ChetanaKamble\Downloads\App14\App14.Droid\obj\Debug\100\lp\4\jl\res\values\attrs.xml
+declare-styleable;C:\Users\ChetanaKamble\Downloads\App14\App14.Droid\obj\Debug\100\lp\4\jl\res\values\attrs.xml
+item;C:\Users\ChetanaKamble\Downloads\App14\App14.Droid\obj\Debug\100\lp\4\jl\res\values\styles.xml
+item;obj\Debug\100\res\values\styles.xml
+resources;C:\Users\ChetanaKamble\Downloads\App14\App14.Droid\obj\Debug\100\lp\4\jl\res\values\attrs.xml
+resources;C:\Users\ChetanaKamble\Downloads\App14\App14.Droid\obj\Debug\100\lp\4\jl\res\values\styles.xml
+resources;obj\Debug\100\res\values\strings.xml
+resources;obj\Debug\100\res\values\styles.xml
+string;obj\Debug\100\res\values\strings.xml
+style;C:\Users\ChetanaKamble\Downloads\App14\App14.Droid\obj\Debug\100\lp\4\jl\res\values\styles.xml
+style;obj\Debug\100\res\values\styles.xml

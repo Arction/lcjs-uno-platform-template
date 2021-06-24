@@ -1,0 +1,33 @@
+﻿html,
+.box {
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+    display: inline;
+    padding:10px 7px 7px 7px;
+}
+
+    .box .row.header {
+        flex: 0 1 auto;
+        text-align:center;
+    }
+
+.row.content {
+    flex: 1 1 auto;
+    height: 78%;
+}
+
+.row.button {
+    height: 30px;
+    width: 100px;
+    background: #f1f1f1;
+    text-align: center;
+    border: 1px solid #e1e1e2;
+    font-weight: bold;
+     
+}
+#target {
+    height:600px;
+    margin-top:5px;
+}
+

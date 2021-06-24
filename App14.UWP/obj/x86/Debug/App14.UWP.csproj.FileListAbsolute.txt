@@ -1,0 +1,9 @@
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.UWP\obj\x86\Debug\App14.UWP.csprojAssemblyReference.cache
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.UWP\obj\x86\Debug\App.g.i.cs
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.UWP\obj\x86\Debug\App.g.cs
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.UWP\obj\x86\Debug\MainPage.g.i.cs
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.UWP\obj\x86\Debug\MainPage.g.cs
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.UWP\obj\x86\Debug\App.xaml
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.UWP\obj\x86\Debug\MainPage.xaml
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.UWP\obj\x86\Debug\App.xbf
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.UWP\obj\x86\Debug\MainPage.xbf

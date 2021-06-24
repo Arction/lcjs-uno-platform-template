@@ -1,0 +1,3 @@
+Scale=200
+Language=EN-US
+Language=EN

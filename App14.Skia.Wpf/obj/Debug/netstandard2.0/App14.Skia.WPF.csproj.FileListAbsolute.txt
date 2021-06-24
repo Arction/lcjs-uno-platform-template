@@ -1,0 +1,34 @@
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf\bin\Debug\netstandard2.0\App14.Skia.Wpf.deps.json
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf\bin\Debug\netstandard2.0\App14.Skia.Wpf.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf\bin\Debug\netstandard2.0\App14.Skia.Wpf.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf\bin\Debug\netstandard2.0\Uno.Foundation.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf\bin\Debug\netstandard2.0\Uno.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf\bin\Debug\netstandard2.0\Uno.UI.FluentTheme.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf\bin\Debug\netstandard2.0\Uno.UI.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf\bin\Debug\netstandard2.0\Uno.UI.Toolkit.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf\bin\Debug\netstandard2.0\Uno.Xaml.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf\bin\Debug\netstandard2.0\Uno.UI.RemoteControl.pdb
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf\obj\Debug\netstandard2.0\App14.Skia.Wpf.csprojAssemblyReference.cache
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf\obj\Debug\netstandard2.0\App14.Skia.Wpf.AssemblyInfoInputs.cache
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf\obj\Debug\netstandard2.0\App14.Skia.Wpf.AssemblyInfo.cs
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf\obj\Debug\netstandard2.0\App14.Skia.Wpf.csproj.CoreCompileInputs.cache
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf\obj\Debug\netstandard2.0\App14.Skia.Wpf.csproj.CopyComplete
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf\obj\Debug\netstandard2.0\App14.Skia.Wpf.dll
+D:\LC-JS\xamarine\Uno Paltform\App14\App14.Skia.Wpf\obj\Debug\netstandard2.0\App14.Skia.Wpf.pdb
+C:\abc\App14\App14.Skia.Wpf\bin\Debug\netstandard2.0\Assets\sample.html
+C:\abc\App14\App14.Skia.Wpf\bin\Debug\netstandard2.0\App14.Skia.Wpf.deps.json
+C:\abc\App14\App14.Skia.Wpf\bin\Debug\netstandard2.0\App14.Skia.Wpf.dll
+C:\abc\App14\App14.Skia.Wpf\bin\Debug\netstandard2.0\App14.Skia.Wpf.pdb
+C:\abc\App14\App14.Skia.Wpf\bin\Debug\netstandard2.0\Uno.Foundation.pdb
+C:\abc\App14\App14.Skia.Wpf\bin\Debug\netstandard2.0\Uno.pdb
+C:\abc\App14\App14.Skia.Wpf\bin\Debug\netstandard2.0\Uno.UI.FluentTheme.pdb
+C:\abc\App14\App14.Skia.Wpf\bin\Debug\netstandard2.0\Uno.UI.pdb
+C:\abc\App14\App14.Skia.Wpf\bin\Debug\netstandard2.0\Uno.UI.Toolkit.pdb
+C:\abc\App14\App14.Skia.Wpf\bin\Debug\netstandard2.0\Uno.Xaml.pdb
+C:\abc\App14\App14.Skia.Wpf\bin\Debug\netstandard2.0\Uno.UI.RemoteControl.pdb
+C:\abc\App14\App14.Skia.Wpf\obj\Debug\netstandard2.0\App14.Skia.Wpf.AssemblyInfoInputs.cache
+C:\abc\App14\App14.Skia.Wpf\obj\Debug\netstandard2.0\App14.Skia.Wpf.AssemblyInfo.cs
+C:\abc\App14\App14.Skia.Wpf\obj\Debug\netstandard2.0\App14.Skia.Wpf.csproj.CoreCompileInputs.cache
+C:\abc\App14\App14.Skia.Wpf\obj\Debug\netstandard2.0\App14.Skia.Wpf.csproj.CopyComplete
+C:\abc\App14\App14.Skia.Wpf\obj\Debug\netstandard2.0\App14.Skia.Wpf.dll
+C:\abc\App14\App14.Skia.Wpf\obj\Debug\netstandard2.0\App14.Skia.Wpf.pdb

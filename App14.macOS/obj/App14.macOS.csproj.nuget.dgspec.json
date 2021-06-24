@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ChetanaKamble\\Downloads\\App14\\App14.macOS\\App14.macOS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ChetanaKamble\\Downloads\\App14\\App14.macOS\\App14.macOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ChetanaKamble\\Downloads\\App14\\App14.macOS\\App14.macOS.csproj",
+        "projectName": "App14.macOS",
+        "projectPath": "C:\\Users\\ChetanaKamble\\Downloads\\App14\\App14.macOS\\App14.macOS.csproj",
+        "packagesPath": "C:\\Users\\ChetanaKamble\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ChetanaKamble\\Downloads\\App14\\App14.macOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ChetanaKamble\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinmac20"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinmac20": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinmac20": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Filter": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Uno.UI": {
+              "target": "Package",
+              "version": "[3.5.1, )"
+            },
+            "Uno.UI.RemoteControl": {
+              "target": "Package",
+              "version": "[3.5.1, )"
+            },
+            "Uno.UI.Skia.Wpf": {
+              "target": "Package",
+              "version": "[3.5.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

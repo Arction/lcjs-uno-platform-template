@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="App14.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App14"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" >
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <WebView x:Name="webView1"  />
+        <StackPanel Margin="20" Padding="5" Grid.ColumnSpan="6" Grid.Row="3" HorizontalAlignment="Left" Orientation="Horizontal">
+            <RepeatButton Background="Gray" VerticalAlignment="Top" Width="100" Delay="500" Margin="25" Interval="100" Click="Increase_Click">Line Chart</RepeatButton>
+            <RepeatButton Background="Gray" VerticalAlignment="Top" Width="100" Delay="500" Margin="25" Interval="100" Click="Decrease_Click">3D Chart</RepeatButton>
+            <TextBlock x:Name="clickTextBlock" />
+        </StackPanel>
+    </Grid>
+</Page>
